@@ -22,7 +22,7 @@ const Card = () => {
 
   return (
     <div className=" justify-content-center h-100 ">
-      <div>
+      <div className="mt-5"> 
         <h1 className="font-monospace">Chuck Jokes</h1>
       </div>
       <div className="d-flex justify-content-center bg-secondarycolor">
